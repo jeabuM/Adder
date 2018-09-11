@@ -10,7 +10,7 @@ class Adder {
         int y = sc.nextInt();
 
         // Process
-        int z = x + y;
+        int z = x - y;
 
         // Output
         System.out.println(z);
